@@ -29,6 +29,9 @@ Welcome to my GitHub! I’m a passionate Full Stack Web Developer with over **6 
   - **CM Health Endowment Fund**, Gilgit
 ---
 
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IkhlasHussain)](https://git.io/streak-stats)
+
 ## 📢 Let’s Collaborate
 
 I’m always open to new freelance opportunities and collaborations. Feel free to reach out!

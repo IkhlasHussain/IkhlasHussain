@@ -24,17 +24,19 @@
 </div>
 
 
-
-👨‍💻 **About Me** — Laravel Full Stack Developer 
 <hr>
-Welcome to my GitHub! I'm **Ikhlas Hussain** a Full Stack Web Developer with 6+ years of experience building scalable, real-time web applications using Laravel, Vue.js, and MySQL/PostgreSQL. Based in Gilgit-Baltistan, Pakistan, I deliver innovative solutions for government and private sectors and mentor aspiring developers as a Web Development Trainer.
+
+👨‍💻 **About Me** Laravel Full Stack Developer 
+
+
+  Welcome to my GitHub! I'm **Ikhlas Hussain** a Full Stack Web Developer with 6+ years of experience building scalable, real-time web applications using Laravel, Vue.js, and MySQL/PostgreSQL. Based in Gilgit-Baltistan, Pakistan, I deliver innovative solutions for government and private sectors and mentor aspiring developers as a Web Development Trainer.
 
 **🚀 Mission**: Create efficient, user-centric systems with clean, maintainable code.
 <br>
 **🎓 Training:** Empowering developers with hands-on Laravel and Vue.js expertise.
 <br>
 **🎵 Fun Fact:** I draw inspiration from music, movies, and the pursuit of flawless code.
-<br>
+<hr>
 
 
 🛠️ **Tech Stack**
@@ -65,10 +67,10 @@ DigitalOcean, Linode, Docker, Git, GitHub Actions
 Swagger, Postman, TDD, Design Patterns, Real-time Systems
 
 
+<hr>
 
 
 🏆 **Notable Projects** Government and Private Sectors
-<hr>
 
   **CM Health Endowment Fund (Gilgit) :** Built a bilingual (English/Urdu) system for health endowment management with real-time patient data tracking.Tech: Laravel, Vue.js, MySQL, Tailwind CSS
 
@@ -89,10 +91,7 @@ Swagger, Postman, TDD, Design Patterns, Real-time Systems
  
   **Real-time Chat & Video Systems** : Implemented secure, scalable communication platforms using WebSockets for seamless user experiences.Tech: Laravel, Vue.js, WebSockets, MySQL
 
-
-**Tech:** 
-
-  Laravel, Vue.js, Redis, Tailwind CSS.
+<hr>
 
 
 📊 **GitHub Stats**
@@ -103,10 +102,10 @@ Swagger, Postman, TDD, Design Patterns, Real-time Systems
 
   
 
+<hr>
 
 
 🤝 **Let’s Collaborate**
-<hr>
     I’m open to freelance projects, collaborations, and mentoring opportunities. Let’s build something extraordinary!
 
 📧 Email: ikhlashussain512@gmail.com
@@ -120,8 +119,9 @@ Swagger, Postman, TDD, Design Patterns, Real-time Systems
 
 📍 Location: Gilgit-Baltistan, Pakistan
 
+<hr>
 
-🎓 Training & Mentorship
+🎓 **Training & Mentorship**
 As a Web Development Trainer, I offer hands-on guidance in:
 
 **Laravel:**
@@ -141,6 +141,7 @@ TDD, design patterns, and clean code principles
 **Interested?**
 
 Email me to kickstart your learning journey!
+<hr>
 
 ✨ **Why Work With Me?**
 

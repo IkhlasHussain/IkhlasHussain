@@ -1,157 +1,135 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/ikhlas-hussain-726256117">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ikhlas-hussain-726256117" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.linkedin.com/in/ikhlas-hussain-726256117">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="www.linkedin.com/in/ikhlas-hussain-726256117">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="badges" align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=IkhlasHussain&style=flat-square&color=blue" alt=""/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IkhlasHussain&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+---
+
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
-<hr>
+## 👨‍💻 About Me
 
-👨‍💻 **About Me** Laravel Full Stack Developer 
+I'm **Ikhlas Hussain**, a **Laravel Full Stack Developer** with over **6 years** of experience in building efficient, real-time, and scalable web applications.
 
+💼 **Profession:** Full Stack Web Developer  
+📍 **Location:** Gilgit-Baltistan, Pakistan  
+🎓 **Trainer:** Laravel & Vue.js  
+🎯 **Mission:** Build clean, scalable, and maintainable systems  
+🎵 **Fun Fact:** I draw inspiration from music, movies, and flawless code.
 
-  Welcome to my GitHub! I'm **Ikhlas Hussain** a Full Stack Web Developer with 6+ years of experience building scalable, real-time web applications using Laravel, Vue.js, and MySQL/PostgreSQL. Based in Gilgit-Baltistan, Pakistan, I deliver innovative solutions for government and private sectors and mentor aspiring developers as a Web Development Trainer.
+---
 
-**🚀 Mission**: Create efficient, user-centric systems with clean, maintainable code.
-<br>
-**🎓 Training:** Empowering developers with hands-on Laravel and Vue.js expertise.
-<br>
-**🎵 Fun Fact:** I draw inspiration from music, movies, and the pursuit of flawless code.
-<hr>
+## 🛠️ Tech Stack
 
+| Category        | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Backend**     | PHP, Laravel, REST APIs, JWT, Sanctum, WebSockets                           |
+| **Frontend**    | Vue.js, Blade, Tailwind CSS, Bootstrap, JavaScript                          |
+| **Database**    | MySQL, PostgreSQL, Eloquent ORM, Redis                                       |
+| **DevOps**      | DigitalOcean, Linode, Docker, Git, GitHub Actions                           |
+| **Tools**       | Postman, Swagger, TDD, Software Design Principles, Real-time Systems        |
 
-🛠️ **Tech Stack**
+---
 
+## 🏆 Notable Projects
 
+✅ **CM Health Endowment Fund (Gilgit)**  
+*Built a bilingual system (English/Urdu) for real-time patient data tracking*  
+`Laravel`, `Vue.js`, `MySQL`, `Tailwind CSS`
 
-**Category**          **Technologies**
+✅ **HRM System – Water & Irrigation Department**  
+*Comprehensive employee management system including actions like promotion, transfer, etc.*  
+`Laravel`, `Blade`, `PostgreSQL`
 
+✅ **Billing Software – Water & Power Department GB**  
+*Real-time billing, advanced reporting, and secure data processing*  
+`Laravel`, `WebSockets`, `MySQL`
 
+✅ **Fuel Station Management System**  
+*Inventory and sales tracking system with nozzle reading and dynamic pricing*  
+`Laravel`, `MySQL`
 
-**Backend :**
-PHP, Laravel, REST APIs, JWT, Sanctum, WebSockets
+✅ **File Tracking System – Deputy Commissioner Office**  
+*Dashboard for managing government records and staff actions*  
+`Laravel`, `Blade`, `PostgreSQL`
 
+✅ **GB-Pay**  
+*Online bill payment platform for Gilgit-Baltistan citizens*  
+`Laravel`, `Vue.js`, `MySQL`
 
-**Frontend :**
-Vue.js, Blade, Tailwind CSS, Bootstrap, JavaScript
+✅ **Real-time Chat & Video Systems**  
+*Secure and scalable WebSocket-based chat/video platforms*  
+`Laravel`, `Vue.js`, `WebSockets`
 
+---
 
-**Database :**
-MySQL, PostgreSQL, Eloquent ORM, Redis
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IkhlasHussain&theme=default" alt="GitHub Streak"/>
+</p>
 
-**DevOps :** 
-DigitalOcean, Linode, Docker, Git, GitHub Actions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhlasHussain&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</p>
 
+---
 
-**Tools & Practices :** 
-Swagger, Postman, TDD, Design Patterns, Real-time Systems
+## 🤝 Let's Collaborate
 
+I'm open to:
+- Freelance projects
+- Mentorship and developer training
+- Building awesome open-source tools
 
-<hr>
+📧 **Email**: [ikhlashussain512@gmail.com](mailto:ikhlashussain512@gmail.com)  
+🔗 **LinkedIn**: [ikhlas-hussain-726256117](https://www.linkedin.com/in/ikhlas-hussain-726256117)  
+🌐 **Portfolio**: _Coming Soon_  
+📍 **Based in**: Gilgit-Baltistan, Pakistan
 
+---
 
-🏆 **Notable Projects** Government and Private Sectors
+## 🎓 Training & Mentorship
 
-  **CM Health Endowment Fund (Gilgit) :** Built a bilingual (English/Urdu) system for health endowment management with real-time patient data tracking.Tech: Laravel, Vue.js, MySQL, Tailwind CSS
+As a **Web Development Trainer**, I help developers become confident in:
 
-  **HRM System (Water and Irrigation Department, Gilgit) :** Developed a platform for employee management, including promotions, transfers, and penalties with a sleek dashboard.Tech: Laravel, Blade, PostgreSQL
+- **Laravel**: Building powerful backend systems
+- **Vue.js**: Creating dynamic reactive frontends
+- **Best Practices**: TDD, Clean Code, Design Patterns
 
-  **Billing Software (Water and Power Department, Gilgit-Baltistan) :** Created a real-time billing system with advanced reporting and data processing.Tech: Laravel, WebSockets, MySQL
+📬 _Reach out if you're ready to grow your skills!_
 
-  **Fuel Station Management System** : Engineered a real-time inventory and sales tracking system with nozzle readings and dynamic price management.
+---
 
+## ✨ Why Work With Me?
 
-  **Deputy Commissioner** : Developed a platform for File Trackin and Management System, including promotions, transfers, and penalties with a sleek dashboard.Tech: Laravel, Blade, PostgreSQL
- 
- 
-   **Office, GB-Pay** : Developed groundbreaking platform crafted to streamline bill payments for the citizens of Gilgit-Baltistan, providing a secure, efficient, and hassle-free way to manage government dues with just a few clicks.
+✔️ **Proven Expertise** – 6+ years of real-world development  
+✔️ **Modern Stack** – Laravel, Vue, Docker, WebSockets  
+✔️ **Results-Focused** – Scalable, maintainable solutions  
+✔️ **Team Player** – Transparent and collaborative communication
 
+---
 
-
- 
-  **Real-time Chat & Video Systems** : Implemented secure, scalable communication platforms using WebSockets for seamless user experiences.Tech: Laravel, Vue.js, WebSockets, MySQL
-
-<hr>
-
-
-📊 **GitHub Stats**
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=IkhlasHussain)](https://git.io/streak-stats)
-<br><hr><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhlasHussain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
-<hr>
-
-
-🤝 **Let’s Collaborate**
-    I’m open to freelance projects, collaborations, and mentoring opportunities. Let’s build something extraordinary!
-
-📧 Email: ikhlashussain512@gmail.com
-
-
-🔗 LinkedIn: ikhlas-hussain-726256117
-
-
-🌐 Portfolio: Coming Soon!
-
-
-📍 Location: Gilgit-Baltistan, Pakistan
-
-<hr>
-
-🎓 **Training & Mentorship**
-As a Web Development Trainer, I offer hands-on guidance in:
-
-**Laravel:**
-
-Building robust backend systems
-
-
-**Vue.js:**
-
-Crafting dynamic, reactive frontends
-
-
-**Best Practices:**
-
-TDD, design patterns, and clean code principles
-
-**Interested?**
-
-Email me to kickstart your learning journey!
-<hr>
-
-✨ **Why Work With Me?**
-
-Proven Expertise: 6+ years delivering high-impact solutions for diverse clients.
-Modern Tech Stack: Skilled in cutting-edge frameworks and tools.
-User-Centric: Focused on intuitive, accessible, and visually appealing designs.
-Collaborative: Committed to clear communication and timely delivery.
-
-
-
-  Thanks for visiting! ⭐️ Star my repos if you find them inspiring!
-  
-  
+### 🙌 Thanks for visiting!  
+If you find my work helpful, consider ⭐️ starring my repositories. Let's build something amazing together!
